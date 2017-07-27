@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install libglpk-dev
+apt-get install libglpk-dev
